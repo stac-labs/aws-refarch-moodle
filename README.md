@@ -1,3 +1,5 @@
+This is the STAC Labs fork of the AWS Reference Architecture for Moodle, and will point to the STAC Labs codebase for Moodle.
+
 # Hosting Moodle on AWS
 
 ### Version 1.0.0
